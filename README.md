@@ -19,7 +19,7 @@ This application is designed to separate vocals and instrumentals from audio fil
 1. **Start the Application:**
    - Double-click the "vocal_remover.exe" file.
 
-2. **Ses Dosyası Yükleyin:**
+2. **Upload Audio File:**
    - Click the "Upload File" button and select an audio file (MP3 or WAV format) from your computer.
 
 3. **Start the Separation Process:**
