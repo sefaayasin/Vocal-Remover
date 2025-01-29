@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/61e88680-216d-456a-8b12-bb05cf21a5ef)
+![Image](https://github.com/user-attachments/assets/4a4ff97b-9db0-44d4-93d4-a30c5b1140cd)
 
 Vocal Remover - Developed by Sefa Yasin
 =======================================
